@@ -1,0 +1,26 @@
+body {
+    font-family: "Latoregular", sans-serif;
+    box-sizing: border-box;
+    background-color: #fff;
+}
+
+input,
+select,
+textarea {
+    height: 35px;
+    background: #edeff2;
+    color: #444;
+    outline: 0;
+    text-align: left;
+    vertical-align: top;
+    border-radius: 0.25rem;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+    margin: 0 0 0.625rem 0;
+    background-color: #fff;
+    border: 0.0625rem solid #E9E9E9;
+    min-height: 2.8125rem;
+    width: 100%;
+    box-sizing: border-box;
+    font-weight: normal;
+}
